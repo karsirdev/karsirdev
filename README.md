@@ -10,10 +10,6 @@
 
 *Sinh viên năm nhất · Ho Chi Minh City · Dreaming in Swift & Kotlin*
 
-[![GitHub followers](https://img.shields.io/github/followers/karsirdev?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=followers)](https://github.com/karsirdev)
-&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/karsirdev?style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/karsirdev)
-
 </div>
 
 ---
@@ -22,11 +18,13 @@
 
 ## &nbsp;`whoami`
 
-> Mình đang xây dựng nền tảng để trở thành **Mobile Engineer** — người tạo ra ứng dụng
-> chạy trên cả Android lẫn iOS, giao diện đẹp, cảm giác native, và thực sự có người dùng.
->
-> Học lập trình không phải để pass môn — mà để **build thứ gì đó đáng tự hào**.
-> Roadmap rõ ràng, commit đều đặn, từng ngày tiến thêm một bước.
+Mình đang xây dựng nền tảng để trở thành **Mobile Engineer** — người tạo ra ứng dụng chạy trên cả Android lẫn iOS, giao diện đẹp, cảm giác native, và thực sự có người dùng.
+
+Học lập trình không phải để pass môn — mà để **build thứ gì đó đáng tự hào**. Roadmap rõ ràng, commit đều đặn, từng ngày tiến thêm một bước.
+
+Thích tạo ra những ứng dụng giải quyết vấn đề thực tế, giao diện đẹp, trải nghiệm mượt và đặt người dùng lên trên hết.
+
+Mục tiêu hiện tại là nắm chắc **Android + iOS**, hiểu từ cách thiết kế UI đến cách kết nối API, từ prototype đến app thực sự được ship.
 
 <br/>
 
@@ -73,7 +71,7 @@ val karsirdev = object : Developer {
         "Base     →  C++   · DSA · OOP"
     )
 
-    override val building = "perisonal project - cosmicwallet iOS"
+    override val building = "cosmicwallet — a personal iOS finance app"
     override val goal     = "Ship real apps. Build real products."
     override val city     = "Thủ Đức, Hồ Chí Minh 🇻🇳"
 }
@@ -83,11 +81,55 @@ val karsirdev = object : Developer {
 
 ## &nbsp;`projects`
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| [perisonal project - cosmicwallet iOS](https://github.com/karsirdev/perisanalproject-cosmicwalletiOS) | Swift | 🔨 Building |
-| [banking console - Kotlin](https://github.com/karsirdev/banking_console_kotlin) | Kotlin | ✅ Done |
-| [SwiftOOP](https://github.com/karsirdev/SwiftOOP) | Swift | ✅ Done |
+### cosmicwallet iOS
+
+Một ứng dụng quản lý tài chính cá nhân trên iOS — project đầu tiên mình build nghiêm túc từ đầu đến cuối.
+
+Mục tiêu không phải là làm ra app cho đẹp portfolio — mà là **thực sự hiểu cách một iOS app được xây dựng**, từ kiến trúc đến UI đến data flow.
+
+**Đang thực hành:**
+
+- SwiftUI layout & navigation
+- State management trong iOS
+- Thiết kế data model thực tế
+- Xử lý local storage
+- Tư duy product: ai dùng, dùng như thế nào
+- Kiến trúc rõ ràng, code dễ maintain
+
+**Tech:** Swift · SwiftUI · Xcode
+
+---
+
+### banking console — Kotlin
+
+Một ứng dụng console mô phỏng hệ thống ngân hàng cơ bản, xây dựng để nắm chắc OOP và Kotlin từ gốc.
+
+Không phải app fancy — nhưng đây là nơi mình **hiểu thật sự cách tổ chức code**, xử lý logic nghiệp vụ, và suy nghĩ như một developer.
+
+**Đang thực hành:**
+
+- OOP: class, inheritance, interface
+- Kotlin syntax & idiomatic style
+- Xử lý logic tài khoản, giao dịch
+- Tổ chức project rõ ràng
+- Input validation & error handling
+
+**Tech:** Kotlin · Android Studio
+
+---
+
+### SwiftOOP
+
+Bộ exercises và thí nghiệm nhỏ khi học OOP bằng Swift — không phải project hoàn chỉnh, nhưng là nơi mình thực sự **hiểu ngôn ngữ trước khi build app lớn hơn**.
+
+**Tập trung vào:**
+
+- Class, struct, protocol trong Swift
+- Value type vs reference type
+- Swift-specific patterns
+- Viết code clean ngay từ đầu
+
+**Tech:** Swift · Xcode
 
 <br/>
 
