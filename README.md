@@ -10,6 +10,10 @@
 
 *Sinh viên năm nhất · Ho Chi Minh City · Dreaming in Swift & Kotlin*
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,androidstudio,xcode,git,github&theme=dark" />
+
 </div>
 
 ---
@@ -28,35 +32,7 @@ Mục tiêu hiện tại là nắm chắc **Android + iOS**, hiểu từ cách t
 
 <br/>
 
-```
-                              📱
-          android ─────────────────────── ios
-             │                              │
-          Kotlin                          Swift
-             │                              │
-             └────────── karsirdev ─────────┘
-                              │
-                             C++
-                              │
-                         [ foundation ]
-```
-
-<br/>
-
-## &nbsp;`stack`
-
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+Mình chọn mobile vì đó là nơi gần với người dùng nhất — ứng dụng trong túi, dùng mỗi ngày, cảm nhận ngay lập tức. Android với Kotlin, iOS với Swift, và C++ làm nền tảng để hiểu mọi thứ sâu hơn. Không chạy theo trend, chỉ build thật, học thật.
 
 <br/>
 
