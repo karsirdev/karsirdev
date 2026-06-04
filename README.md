@@ -10,9 +10,9 @@
 
 *Sinh viên năm nhất · Ho Chi Minh City · Dreaming in Swift & Kotlin*
 
-[![GitHub](https://img.shields.io/badge/GitHub-VuCaoNguyen-181717?style=flat-square&logo=github)](https://github.com/VuCaoNguyen)
+[![GitHub followers](https://img.shields.io/github/followers/karsirdev?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=followers)](https://github.com/karsirdev)
 &nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=VuCaoNguyen.VuCaoNguyen&style=flat-square&color=7c3aed)
+[![GitHub User's stars](https://img.shields.io/github/stars/karsirdev?style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/karsirdev)
 
 </div>
 
@@ -20,26 +20,28 @@
 
 <br/>
 
-```
-                                          📱
-               android ──────────────────────────────── ios
-                  │                                       │
-               Kotlin                                   Swift
-                  │                                       │
-                  └───────────── me ─────────────────────┘
-                                  │
-                                 C++
-                                  │
-                              foundation
-```
+## &nbsp;`whoami`
+
+> Mình đang xây dựng nền tảng để trở thành **Mobile Engineer** — người tạo ra ứng dụng
+> chạy trên cả Android lẫn iOS, giao diện đẹp, cảm giác native, và thực sự có người dùng.
+>
+> Học lập trình không phải để pass môn — mà để **build thứ gì đó đáng tự hào**.
+> Roadmap rõ ràng, commit đều đặn, từng ngày tiến thêm một bước.
 
 <br/>
 
-## &nbsp;`whoami`
-
-> Mình là Nguyên — một sinh viên năm nhất sinh năm 2007, đang trên hành trình trở thành **Mobile Engineer**.
-> Thích xây dựng những ứng dụng có giao diện đẹp, trải nghiệm mượt và thực sự giải quyết được vấn đề.
-> Hiện đang học nghiêm túc **Kotlin** cho Android và **Swift** cho iOS — cùng lúc trên chiếc MacBook M4 Pro.
+```
+                              📱
+          android ─────────────────────── ios
+             │                              │
+          Kotlin                          Swift
+             │                              │
+             └────────── karsirdev ─────────┘
+                              │
+                             C++
+                              │
+                         [ foundation ]
+```
 
 <br/>
 
@@ -47,12 +49,14 @@
 
 <div align="center">
 
-| Mobile | Systems | Tools |
-|:------:|:-------:|:-----:|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) |
-| ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) | | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | | ![macOS](https://img.shields.io/badge/macBook_M4_Pro-000000?style=for-the-badge&logo=apple&logoColor=white) |
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -61,31 +65,61 @@
 ## &nbsp;`currently`
 
 ```kotlin
-val nguyen = object : MobileEngineer {
+val karsirdev = object : Developer {
 
-    override val learning = listOf(
-        "Kotlin  →  Jetpack Compose, Android fundamentals",
-        "Swift   →  SwiftUI, UIKit basics",
-        "C++     →  OOP, Data structures & Algorithms"
+    override val focus = listOf(
+        "Android  →  Kotlin · Jetpack Compose",
+        "iOS      →  Swift  · SwiftUI",
+        "Base     →  C++   · DSA · OOP"
     )
 
-    override val goal = "Build apps for millions of users"
-
-    override val year   = 2007
-    override val device = "MacBook M4 Pro"
-    override val city   = "Ho Chi Minh City 🇻🇳"
+    override val building = "perisonal project - cosmicwallet iOS"
+    override val goal     = "Ship real apps. Build real products."
+    override val city     = "Thủ Đức, Hồ Chí Minh 🇻🇳"
 }
 ```
 
 <br/>
 
+## &nbsp;`projects`
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| [perisonal project - cosmicwallet iOS](https://github.com/karsirdev/perisanalproject-cosmicwalletiOS) | Swift | 🔨 Building |
+| [banking console - Kotlin](https://github.com/karsirdev/banking_console_kotlin) | Kotlin | ✅ Done |
+| [SwiftOOP](https://github.com/karsirdev/SwiftOOP) | Swift | ✅ Done |
+
+<br/>
+
+## &nbsp;`/ something I live by /`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   write code                                        │
+│      → break it                                     │
+│         → understand why                            │
+│            → fix it                                 │
+│               → write better code                   │
+│                                                     │
+│   repeat until you ship something real.             │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
 ## &nbsp;`roadmap`
 
-- [x] &nbsp;Bắt đầu học lập trình nghiêm túc
-- [x] &nbsp;Làm quen với Git & GitHub workflow
-- [ ] &nbsp;Hoàn thành app Android đầu tiên với Kotlin
-- [ ] &nbsp;Hoàn thành app iOS đầu tiên với Swift
-- [ ] &nbsp;Publish lên Google Play & App Store
+- [x] &nbsp;Bắt đầu học lập trình có định hướng
+- [x] &nbsp;Ship project Kotlin đầu tiên
+- [x] &nbsp;Ship project Swift đầu tiên
+- [ ] &nbsp;Build app hoàn chỉnh lên App Store / Play Store
+- [ ] &nbsp;Có project cá nhân với real users
 - [ ] &nbsp;Intern tại một công ty Mobile
 - [ ] &nbsp;`// TODO: Big Tech`
 
@@ -95,17 +129,15 @@ val nguyen = object : MobileEngineer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VuCaoNguyen&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuCaoNguyen&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karsirdev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsirdev&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VuCaoNguyen&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karsirdev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -115,8 +147,10 @@ val nguyen = object : MobileEngineer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<sub>nguyencaovu2007@gmail.com &nbsp;·&nbsp; facebook.com/vucanguyn.09</sub>
 
-*"Every expert was once a beginner."*
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
