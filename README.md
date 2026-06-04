@@ -12,7 +12,8 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,androidstudio,apple,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,androidstudio,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white" />
 
 </div>
 
