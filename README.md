@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,androidstudio,xcode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,androidstudio,apple,git,github&theme=dark" />
 
 </div>
 
