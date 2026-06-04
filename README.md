@@ -8,7 +8,7 @@
 
 <div align="center">
 
-*Sinh viên năm nhất · Ho Chi Minh City · Dreaming in Swift & Kotlin*
+*Sinh viên IT · Ho Chi Minh City · Dreaming in Swift & Kotlin*
 
 <br/>
 
