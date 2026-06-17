@@ -131,10 +131,17 @@ Không phải app fancy — nhưng đây là nơi mình **hiểu thật sự cá
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=karsirdev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsirdev&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
+
+<br/>
+
+**Main Languages** *(SavingsBook-iOS · SwiftOOP · banking_console_kotlin)*
+
+| Language | Used in | Share |
+|---|---|---|
+| 🟠 Swift | SavingsBook-iOS, SwiftOOP | ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 67% |
+| 🟣 Kotlin | banking_console_kotlin | ▓▓▓▓▓▓░░░░░░░░░░░░ 33% |
 
 <div align="center">
 
