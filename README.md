@@ -12,12 +12,8 @@
 
 <br/>
 
-**Mobile**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kotlin,swift&theme=dark" />
-&nbsp;&nbsp;**Tools**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=androidstudio,xcode&theme=dark" />
-&nbsp;&nbsp;**Base**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=xcode,cpp,git,github&theme=dark" />
 
 </div>
 
