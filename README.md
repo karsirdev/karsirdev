@@ -12,7 +12,12 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,androidstudio,xcode,git,github&theme=dark" />
+**Mobile**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin,swift&theme=dark" />
+&nbsp;&nbsp;**Tools**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio,xcode&theme=dark" />
+&nbsp;&nbsp;**Base**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp,git,github&theme=dark" />
 
 </div>
 
@@ -22,11 +27,11 @@
 
 ## &nbsp;`whoami`
 
-Mình là Vũ Cao Nguyên, sinh năm 2007, hiện là sinh viên năm nhất ngành IT. Mình có một ước mơ — trở thành **Mobile Engineer**: người tạo ra ứng dụng chạy mượt trên cả Android và iOS, giao diện đẹp, cảm giác native, và thực sự có người dùng cầm trên tay.
+Mình là **Vũ Cao Nguyên**, sinh năm 2007, sinh viên năm nhất ngành IT tại Rikkei Education, Hồ Chí Minh.
 
-Học lập trình không phải để pass môn, mà để **build thứ gì đó đáng tự hào**. Mỗi ngày một bước, commit đều đặn, từ những project console nhỏ đến một app thật sự được ship.
+Mình có một ước mơ — trở thành **Mobile Engineer**: người tạo ra ứng dụng chạy mượt trên cả Android lẫn iOS, giao diện đẹp, cảm giác native, và thực sự có người dùng cầm trên tay.
 
-Mình chọn mobile vì đó là nơi gần với người dùng nhất — ứng dụng trong túi, mở lên mỗi ngày, cảm nhận ngay lập tức. Android với Kotlin, iOS với Swift, và C++ làm nền để hiểu mọi thứ sâu hơn từ gốc. Không chạy theo trend, chỉ học thật, build thật.
+Học lập trình không phải để pass môn, mà để **build thứ gì đó đáng tự hào**. Mỗi ngày một bước, commit đều đặn — từ những project console nhỏ đến một app thật sự được ship. Mình chọn mobile vì đó là nơi gần với người dùng nhất. Không chạy theo trend, chỉ học thật, build thật.
 
 <br/>
 
@@ -41,7 +46,7 @@ val karsirdev = object : Developer {
         "Base     →  C++   · OOP · DSA"
     )
 
-    override val building = "SavingsBook-iOS — personal finance & savings tracker"
+    override val building = "SavingsBook — personal finance & savings tracker (iOS + Android)"
     override val machine  = "MacBook Pro M4 Pro"
     override val goal     = "Ship real apps. Land a Mobile internship."
     override val city     = "Thủ Đức, Hồ Chí Minh 🇻🇳"
@@ -54,39 +59,49 @@ val karsirdev = object : Developer {
 
 ### [SavingsBook-iOS](https://github.com/karsirdev/SavingsBook-iOS)
 
-Ứng dụng quản lý tiết kiệm cá nhân trên iOS — project nghiêm túc nhất hiện tại, và cũng là bệ phóng cho portfolio xin internship.
+> Ứng dụng quản lý tiết kiệm cá nhân trên iOS — project nghiêm túc nhất hiện tại và bệ phóng cho portfolio xin internship.
 
-Không chỉ làm cho đẹp portfolio, mà để **thực sự hiểu cách một iOS app được xây dựng đúng cách** — từ thiết kế trên Figma, hệ thống theme, đến kiến trúc và trải nghiệm người dùng cuối.
+Không chỉ làm cho đẹp portfolio, mà để **thực sự hiểu cách một iOS app được xây dựng đúng cách** — từ thiết kế trên Figma, hệ thống theme, đến kiến trúc MVVM và trải nghiệm người dùng cuối.
 
-**Đang thực hành:**
-- Thiết kế UI/UX trên Figma với dual-theme system (Light vàng ấm / Dark tím-navy)
-- SwiftUI layout, navigation, reusable components
-- State management & kiến trúc rõ ràng
-- Git workflow chuyên nghiệp: Conventional Commits, README song ngữ
+| Hạng mục | Chi tiết |
+|---|---|
+| 🎨 UI/UX | Figma · dual-theme (Light vàng ấm / Dark tím-navy) |
+| 🏗️ Architecture | MVVM · Features folder structure |
+| 🧩 Components | PrimaryButton · SBTextField · PasswordField · reusable design tokens |
+| 🔐 Auth Flow | WelcomeView · LoginView · RegisterView · OTP VerificationView |
+| 🔧 Workflow | Conventional Commits · git pull --rebase · song ngữ README |
 
-**Tech:** Swift · SwiftUI · Xcode · Figma
+**Tech:** `Swift` · `SwiftUI` · `Xcode` · `Figma`
+
+---
+
+### [SavingsBook-Android](https://github.com/karsirdev/SavingsBook-Android)
+
+> Bản Android song song của SavingsBook — cùng design system, cùng tính năng, khác nền tảng.
+
+Thực hành cross-platform thinking: giữ nguyên logic và UX, adapt đúng chuẩn Material Design 3 cho Android.
+
+**Tech:** `Kotlin` · `Jetpack Compose` · `Android Studio`
 
 ---
 
 ### [SwiftOOP](https://github.com/karsirdev/SwiftOOP)
 
-Bộ exercises và thí nghiệm nhỏ khi học OOP bằng Swift — không phải project hoàn chỉnh, nhưng là nơi mình thực sự **hiểu ngôn ngữ trước khi build app lớn hơn**.
+> Bộ exercises khi học OOP bằng Swift — không phải project hoàn chỉnh, nhưng là nơi mình hiểu ngôn ngữ trước khi build app lớn hơn.
 
-**Tập trung vào:** class, struct, protocol · value type vs reference type · Swift-specific patterns · viết code clean ngay từ đầu
+**Tập trung vào:** class · struct · protocol · value type vs reference type · Swift-specific patterns
 
-**Tech:** Swift · Xcode
+**Tech:** `Swift` · `Xcode`
 
 ---
 
 ### [banking_console_kotlin](https://github.com/karsirdev/banking_console_kotlin)
 
-Ứng dụng console mô phỏng hệ thống ngân hàng cơ bản, xây dựng để nắm chắc OOP và Kotlin từ gốc.
+> Console app mô phỏng hệ thống ngân hàng — nơi mình nắm chắc OOP và Kotlin từ gốc.
 
-Không phải app fancy — nhưng đây là nơi mình **hiểu thật sự cách tổ chức code**, xử lý logic nghiệp vụ, và suy nghĩ như một developer.
+**Thực hành:** OOP · inheritance · interface · Kotlin idiomatic style · xử lý logic tài khoản & giao dịch
 
-**Đang thực hành:** OOP (class, inheritance, interface) · Kotlin idiomatic style · xử lý logic tài khoản/giao dịch · input validation
-
-**Tech:** Kotlin · Android Studio
+**Tech:** `Kotlin` · `Android Studio`
 
 <br/>
 
@@ -115,11 +130,13 @@ Không phải app fancy — nhưng đây là nơi mình **hiểu thật sự cá
 ## &nbsp;`roadmap`
 
 - [x] &nbsp;Bắt đầu học lập trình có định hướng
-- [x] &nbsp;Ship project Kotlin đầu tiên (banking_console_kotlin)
-- [x] &nbsp;Ship project Swift đầu tiên (SwiftOOP)
-- [x] &nbsp;Thiết kế app trên Figma với dual-theme system
+- [x] &nbsp;Ship project Kotlin đầu tiên — `banking_console_kotlin`
+- [x] &nbsp;Ship project Swift đầu tiên — `SwiftOOP`
+- [x] &nbsp;Thiết kế SavingsBook trên Figma với dual-theme system
+- [x] &nbsp;Build auth flow đầy đủ trên iOS (Welcome → Login → OTP)
+- [x] &nbsp;Khởi động SavingsBook-Android với Material 3
 - [ ] &nbsp;Hoàn thiện SavingsBook-iOS, ship lên App Store
-- [ ] &nbsp;Build bản Android song song cho SavingsBook
+- [ ] &nbsp;Đồng bộ tính năng Android với iOS
 - [ ] &nbsp;Có project cá nhân với real users
 - [ ] &nbsp;Intern tại một công ty Mobile
 - [ ] &nbsp;`// TODO: Big Tech`
@@ -136,12 +153,16 @@ Không phải app fancy — nhưng đây là nơi mình **hiểu thật sự cá
 
 <br/>
 
-**Main Languages** *(SavingsBook-iOS · SwiftOOP · banking_console_kotlin)*
+**Main Languages**
 
-| Language | Used in | Share |
-|---|---|---|
-| 🟠 Swift | SavingsBook-iOS, SwiftOOP | ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 67% |
-| 🟣 Kotlin | banking_console_kotlin | ▓▓▓▓▓▓░░░░░░░░░░░░ 33% |
+<div align="center">
+
+| | Language | Projects | |
+|:---:|:---|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=swift&theme=dark" width="28"/> | **Swift** | SavingsBook-iOS · SwiftOOP | ![Swift](https://img.shields.io/badge/60%25-F05138?style=flat-square&logo=swift&logoColor=white&label=share) |
+| <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="28"/> | **Kotlin** | SavingsBook-Android · banking_console_kotlin | ![Kotlin](https://img.shields.io/badge/40%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white&label=share) |
+
+</div>
 
 <div align="center">
 
