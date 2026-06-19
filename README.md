@@ -12,8 +12,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio&theme=dark" />
-<img src="https://skillicons.dev/icons?i=xcode,cpp,git,github&theme=dark" />
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -53,51 +58,42 @@ val karsirdev = object : Developer {
 
 ## &nbsp;`pinned`
 
-### [SavingsBook-iOS](https://github.com/karsirdev/SavingsBook-iOS)
+### [SavingsBook-iOS](https://github.com/karsirdev/SavingsBook-iOS) &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/status-in_progress-a78bfa?style=flat-square)
 
-> Ứng dụng quản lý tiết kiệm cá nhân trên iOS — project nghiêm túc nhất hiện tại và bệ phóng cho portfolio xin internship.
+Ứng dụng quản lý tiết kiệm cá nhân — được thiết kế và build từ đầu như một **production-ready iOS app**, không phải project học cho có.
 
-Không chỉ làm cho đẹp portfolio, mà để **thực sự hiểu cách một iOS app được xây dựng đúng cách** — từ thiết kế trên Figma, hệ thống theme, đến kiến trúc MVVM và trải nghiệm người dùng cuối.
+Bắt đầu từ Figma với dual-theme system, xây từng component một cách có hệ thống, đến kiến trúc MVVM rõ ràng và auth flow hoàn chỉnh. Đây là nơi mình học cách **suy nghĩ như một iOS engineer**, không chỉ viết code.
 
-| Hạng mục | Chi tiết |
+| | |
 |---|---|
-| 🎨 UI/UX | Figma · dual-theme (Light vàng ấm / Dark tím-navy) |
-| 🏗️ Architecture | MVVM · Features folder structure |
-| 🧩 Components | PrimaryButton · SBTextField · PasswordField · reusable design tokens |
-| 🔐 Auth Flow | WelcomeView · LoginView · RegisterView · OTP VerificationView |
-| 🔧 Workflow | Conventional Commits · git pull --rebase · song ngữ README |
+| 🎨 **Design** | Dual-theme · Light (vàng ấm) / Dark (tím-navy) · Figma-first |
+| 🏗️ **Architecture** | MVVM · Features folder · SB design token system |
+| 🔐 **Auth Flow** | Welcome → Login → Register → OTP Verification |
+| 🧩 **Components** | PrimaryButton · SBTextField · PasswordField · reusable by design |
+| 🔧 **Workflow** | Conventional Commits · git pull --rebase |
 
-**Tech:** `Swift` · `SwiftUI` · `Xcode` · `Figma`
-
----
-
-### [SavingsBook-Android](https://github.com/karsirdev/SavingsBook-Android)
-
-> Bản Android song song của SavingsBook — cùng design system, cùng tính năng, khác nền tảng.
-
-Thực hành cross-platform thinking: giữ nguyên logic và UX, adapt đúng chuẩn Material Design 3 cho Android.
-
-**Tech:** `Kotlin` · `Jetpack Compose` · `Android Studio`
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### [SwiftOOP](https://github.com/karsirdev/SwiftOOP)
+### [SavingsBook-Android](https://github.com/karsirdev/SavingsBook-Android) &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/status-in_progress-a78bfa?style=flat-square)
 
-> Bộ exercises khi học OOP bằng Swift — không phải project hoàn chỉnh, nhưng là nơi mình hiểu ngôn ngữ trước khi build app lớn hơn.
+Bản Android của SavingsBook — cùng một product, khác nền tảng. Thực hành **cross-platform product thinking**: giữ nguyên UX, adapt đúng chuẩn Material Design 3, viết Kotlin idiomatic từ đầu.
 
-**Tập trung vào:** class · struct · protocol · value type vs reference type · Swift-specific patterns
+Mục tiêu là ship cả hai platform song song — vì một Mobile Engineer thật sự không chỉ biết một hệ điều hành.
 
-**Tech:** `Swift` · `Xcode`
+| | |
+|---|---|
+| 🎨 **Design** | Material Design 3 · adaptive theming |
+| 🏗️ **Architecture** | MVVM · Jetpack Compose |
+| 🔐 **Auth Flow** | WelcomeScreen · LoginScreen (đang build) |
 
----
-
-### [banking_console_kotlin](https://github.com/karsirdev/banking_console_kotlin)
-
-> Console app mô phỏng hệ thống ngân hàng — nơi mình nắm chắc OOP và Kotlin từ gốc.
-
-**Thực hành:** OOP · inheritance · interface · Kotlin idiomatic style · xử lý logic tài khoản & giao dịch
-
-**Tech:** `Kotlin` · `Android Studio`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 <br/>
 
