@@ -139,20 +139,15 @@ Mục tiêu là ship cả hai platform song song — vì một Mobile Engineer t
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karsirdev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karsirdev&show_icons=true&theme=midnight-purple&border_radius=10&hide_border=false&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karsirdev&layout=compact&theme=midnight-purple&border_radius=10&hide_border=false"/>
 
 </div>
 
-<br/>
-
-**Main Languages**
-
 <div align="center">
 
-| | Language | Projects | |
-|:---:|:---|:---|:---:|
-| <img src="https://skillicons.dev/icons?i=swift&theme=dark" width="28"/> | **Swift** | SavingsBook-iOS · SwiftOOP | ![Swift](https://img.shields.io/badge/60%25-F05138?style=flat-square&logo=swift&logoColor=white&label=share) |
-| <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="28"/> | **Kotlin** | SavingsBook-Android · banking_console_kotlin | ![Kotlin](https://img.shields.io/badge/40%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white&label=share) |
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=karsirdev&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
 
