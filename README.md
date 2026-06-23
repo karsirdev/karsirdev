@@ -28,7 +28,7 @@
 
 ## &nbsp;`whoami`
 
-Mình là **Vũ Cao Nguyên**, sinh năm 2007, sinh viên năm nhất ngành IT tại Rikkei Education, Hồ Chí Minh.
+Mình là **Vũ Cao Nguyên**, sinh năm 2007, sinh viên năm nhất ngành IT tại Học Viện Công Nghệ Bưu Chính Viễn Thông PTIT, Hồ Chí Minh.
 
 Mình có một ước mơ — trở thành **Mobile Engineer**: người tạo ra ứng dụng chạy mượt trên cả Android lẫn iOS, giao diện đẹp, cảm giác native, và thực sự có người dùng cầm trên tay.
 
