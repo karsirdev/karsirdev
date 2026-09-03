@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Vũ%20Cao%20Nguyên&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=I%20have%20a%20little%20dream.&descAlignY=62&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:6c5ce7,75:302b63,100:24243e&height=180&section=header&text=Vũ%20Cao%20Nguyên&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=440&lines=Mobile+App+Engineer;iOS+%C2%B7+Swift+%C2%B7+SwiftUI;Android+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose" alt="Typing SVG" />
 
 </div>
 
@@ -101,19 +103,18 @@ Mục tiêu là ship cả hai platform song song — vì một Mobile Engineer t
 
 <div align="center">
 
-```
 ┌─────────────────────────────────────────────────────┐
-│                                                       │
-│   write code                                         │
-│      → break it                                      │
-│         → understand why                             │
-│            → fix it                                  │
-│               → write better code                    │
-│                                                       │
-│   repeat until you ship something real.              │
-│                                                       │
+│ │
+│ write code │
+│ → break it │
+│ → understand why │
+│ → fix it │
+│ → write better code │
+│ │
+│ repeat until you ship something real. │
+│ │
 └─────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
