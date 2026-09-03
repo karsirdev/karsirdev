@@ -10,7 +10,7 @@
 
 <div align="center">
 
-*Every line I write today is training for the systems I'll build tomorrow.
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Every%20line%20I%20write%20today%20is%20training%20for%20the%20systems%20I'll%20build%20tomorrow&fontSize=20&fontColor=A78BFA&animation=fadeIn&height=80&fontAlignY=60&desc=&descAlignY=51&descAlign=62" width="90%"/>
 
 <br/>
 
