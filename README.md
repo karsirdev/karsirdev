@@ -10,7 +10,7 @@
 
 <div align="center">
 
-*Sinh viên IT năm nhất · Thủ Đức, Hồ Chí Minh · "I don't write code, code writes me"*
+*Every line I write today is training for the systems I'll build tomorrow.
 
 <br/>
 
