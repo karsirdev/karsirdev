@@ -17,10 +17,10 @@
 // profile.swift
 struct Engineer {
     let name       = "Vũ Cao Nguyên"
-    let university = "PTIT — Software Engineering (Year 1)"
+    let university = "PTIT — Software Engineering (Year 2)"
     let location   = "Ho Chi Minh City, Vietnam"
     let craft      = ["iOS", "Android"]
-    let security   = ["Cryptography", "Web & Mobile Security"]
+    let security   = ["Cryptography", "Mobile Security"]
     let mission    = "Build native apps that are fast, beautiful — and secure by design."
     let status     = "Seeking Mobile Internship · iOS / Android"
 }
