@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Vũ Cao Nguyên — Mobile Engineer, Security-minded" width="100%"/>
+<img src="/banner.svg" alt="Vũ Cao Nguyên — Mobile Engineer, Security-minded" width="100%"/>
 
 <br/>
 
